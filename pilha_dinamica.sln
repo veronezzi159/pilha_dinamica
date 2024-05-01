@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pilha_dinamica", "pilha_dinamica\pilha_dinamica.csproj", "{A2219282-B38D-4034-B0B3-8BFDF2EE327A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2219282-B38D-4034-B0B3-8BFDF2EE327A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2219282-B38D-4034-B0B3-8BFDF2EE327A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2219282-B38D-4034-B0B3-8BFDF2EE327A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2219282-B38D-4034-B0B3-8BFDF2EE327A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5491D4FA-5C58-4723-9855-4FFEC93799AA}
+	EndGlobalSection
+EndGlobal
